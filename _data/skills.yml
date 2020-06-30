@@ -1,9 +1,9 @@
 # Skills
 
 # Education
-- skill: Education
+  skill: Education
   description: HTML, CSS, JS, Bootstrap, SQL
 
 # Courses
-- skill: Courses
+ skill: Courses
  description: Coursera, Stepik, ITVDN 
