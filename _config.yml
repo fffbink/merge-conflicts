@@ -11,10 +11,10 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 
-resume_name:                    "Resume for the position of web developer"
-resume_title:                   "Roman Patsiaichuk"
+resume_name:                    "Roman Patsiaichuk"
+resume_title:                   "Resume for the position of web developer"
 resume_contact_email:           "ronnie.prog091@gmail.com"
-resume_contact_telephone:       "+375(29) 801 15 78"
+resume_contact_telephone:       "+375(29)8011578"
 resume_contact_address:         "Brest"
 resume_header_contact_info: "Brest, Belarus | +375298011578 | ronnie.prog091@gmail.com"
 resume_header_intro: "<p>But, you know, live and learn.</p>"
@@ -33,18 +33,15 @@ resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_github_url:            "https://github.com/fffbink/merge-conflicts/"
+  resume_facebook_url:          "https://www.facebook.com/roman.shady/"
+  resume_linkedin_url:          "https://www.linkedin.com/in/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%B0%D1%82%D0%B5%D0%B9%D1%87%D1%83%D0%BA-572aa6166/"
+  #resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
 
 # Design settings
