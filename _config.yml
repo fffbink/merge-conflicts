@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "My resume"
+description: "Resume for the position of web developer"
 
 # Build settings
 markdown: kramdown
@@ -10,14 +10,14 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Skatetocat"
-resume_title:                   "Professional Skater"
-resume_contact_email:           "skatetocat@github.com"
-resume_contact_telephone:       "1-(877)-448-4820"
-resume_contact_address:         "San Francisco, California"
-resume_header_contact_info: "San Francisco, California | 1-(877)-448-4820 | skatetocat@github.com"
-resume_header_intro: "<p>Professional Skater, 'nuff said.</p>"
 
+resume_name:                    "Resume for the position of web developer"
+resume_title:                   "Roman Patsiaichuk"
+resume_contact_email:           "ronnie.prog091@gmail.com"
+resume_contact_telephone:       "+375(29) 801 15 78"
+resume_contact_address:         "Brest"
+resume_header_contact_info: "Brest, Belarus | +375298011578 | ronnie.prog091@gmail.com"
+resume_header_intro: "<p>But, you know, live and learn.</p>"
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
