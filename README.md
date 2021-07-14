@@ -2,7 +2,7 @@
 
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
 
-GitHub Pages: https://fffbink.github.io/resume/
+GitHub Pages: https://RomanPateichuk.github.io/resume/
 
 Oh! I haven't introduced myself...
 
